@@ -1,1 +1,2 @@
-console.log("Programa de practica);
+console.log("Programa de practica");
+
